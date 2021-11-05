@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @plau51ble
+- 👋 Hi, I’m Gatha aka @plau51ble
 - 👀 I’m interested in data science and privacy
 - 🌱 I’m currently learning theoretical privacy
 - 💞️ I’m looking to collaborate on #AI4Good projects
