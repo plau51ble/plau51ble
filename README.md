@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gatha aka @plau51ble
-- 👀 I’m interested in data science and privacy
-- 🌱 I’m currently learning theoretical privacy
-- 💞️ I’m looking to collaborate on #AI4Good projects
+- 👀 I’m an AI Research Scientist
+- 🌱 My Ph.D. specialized in Data privacy
+- 💞️ I’m looking to collaborate on #AI4Good #LLM projects
 - 📫 Drop me a message if you find my work interesting
 
 <!---
